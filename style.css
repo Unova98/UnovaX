@@ -1,7 +1,7 @@
-   
+@import url("https://fonts.googleapis.com/css?family=Mystery+Quest");
+
 .hr {
 
-    padding: 10px;
     color: black;
     background-image: linear-gradient(red, darkred);
     border:  5px outset darkslategray;
@@ -9,12 +9,12 @@
     font-family: "Mystery Quest" ;
     font-weight: bolder;
     font-style: italic;
+    padding: 10px;
 
 }
 
 .bnr{
-
-    margin: auto;
+    margin: auto
     max-width: 1024px;
     width: 100%;
     height: auto;
@@ -31,7 +31,6 @@ body {
     list-style: none;
     background-image: linear-gradient(green, darkgreen);
     
-    max-width: 1024px;
     margin: auto;
     box-shadow: -10px 10px;
 
