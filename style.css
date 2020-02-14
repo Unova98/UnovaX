@@ -23,8 +23,7 @@
 
 body {
 
-    background-image: linear-gradient(red, darkred);
-
+    background-image: linear-gradient(black,#242424,black, #3b3b3b,black,#242424,black);
 }
 
 .menu {
@@ -32,7 +31,6 @@ body {
     background-image: linear-gradient(green, darkgreen);
     
     margin: auto;
-    box-shadow: -10px 10px;
 
 }
 
@@ -42,13 +40,15 @@ body {
     padding: 10px 5px ;
     
 }
-
 .menu li a{
 
     text-decoration: none;
     color: black;
     font-style: italic;
     font-size: xx-large;
+    
+    
+}
   
     
 }
