@@ -130,10 +130,10 @@ background-image: linear-gradient(orange,yellow,red);
 
 .macaco{
 
-	width: 520px;
+	width: 420px;
 	height: 350px;
 	position: absolute;
-	top: 580px;
+	bottom: 0px;
 	right: 0px;
 
 }
