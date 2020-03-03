@@ -1,62 +1,10 @@
-@import url("https://fonts.googleapis.com/css?family=Mystery+Quest");
 
-.hr {
-
-    color: black;
-    background-image: linear-gradient(red, darkred);
-    border:  5px outset darkslategray;
-    margin: auto;
-    font-family: "Mystery Quest" ;
-    font-weight: bolder;
-    font-style: italic;
-    padding: 10px;
-
-}
-
-.bnr{
-    margin: auto
-    max-width: 1024px;
-    width: 100%;
-    height: auto;
-
-}
-
-body {
-
-    background-image: linear-gradient(black,#242424,black, #3b3b3b,black,#242424,black);
+.c {
+    background-color: cyan;
 }
 
 .menu {
-    list-style: none;
-    background-image: linear-gradient(green, darkgreen);
-    
-    margin: auto;
+	margin: 10px;
 
-}
 
-.menu li{
-
-    display: inline-block;
-    padding: 10px 5px ;
-    
-}
-.menu li a{
-
-    text-decoration: none;
-    color: black;
-    font-style: italic;
-    font-size: xx-large;
-    
-    
-}
-  
-    
-}
-
-.menu li a:hover{
-
-    color: white;
-    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
-    padding: 10px;
-    border-bottom: lightsteelblue;
 }
