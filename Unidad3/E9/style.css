@@ -1,0 +1,13 @@
+body{
+    background-color: cyan;
+}
+h1{
+    color: black;
+}
+form{
+	padding: 10px;
+    color: black;
+    background-color: darkcyan;
+    border: hidden;
+    
+}
